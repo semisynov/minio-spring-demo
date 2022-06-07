@@ -1,0 +1,7 @@
+minio:
+    access:
+        key: admin
+        secret: adminadmin
+    bucket:
+        name: documents
+    url: http://localhost:9000
